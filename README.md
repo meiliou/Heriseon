@@ -1,4 +1,4 @@
-# Heriseon
+# Horiseon
 Challenge 1 of Bootcamp - Code Refactor 
 
 The task is to refactor an existing webpage to make it accessible.
